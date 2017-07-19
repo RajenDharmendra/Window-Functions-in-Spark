@@ -7,7 +7,7 @@ In Spark 2.0, framework has introduced built in support for time windows. These 
 
 # Time Series Data
 
-Before we start doing time window, we need to have access to a time series data. For my example, I will be using data of Apple stock from 1980 to 2016. You can access the data here. The original source of data is yahoo finance.
+Before we start doing time window, we need to have access to a time series data. For my example, I will be using data of Apple stock from 1980 to 2016.The original source of data is yahoo finance.
 
 The data has six columns. Out of those six, we are only interested in Date, which signifies the date of trade and Close which signifies end of the day value.
 
